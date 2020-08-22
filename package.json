@@ -1,0 +1,19 @@
+{
+  "name": "character-sheet",
+  "version": "1.0.0",
+  "description": "App used for tracking your character stats in the D&D role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinvalincic/character-sheet.git"
+  },
+  "author": "Tin Valinčić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinvalincic/character-sheet/issues"
+  },
+  "homepage": "https://github.com/tinvalincic/character-sheet#readme"
+}
