@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tinvalincic/character-sheet/issues"
   },
-  "homepage": "https://github.com/tinvalincic/character-sheet#readme"
+  "homepage": "https://github.com/tinvalincic/character-sheet#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
 }
